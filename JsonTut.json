@@ -1,0 +1,36 @@
+{
+  "UserInfo": [
+    {
+     "UserId": "0",
+     "FirstName": "Jonathan",
+     "Surname": "Bardwell",
+     "PlayerDesc": "Into VR development and creating games",
+     "MaxGold": "523",
+     "Team": "Red"
+    },
+    {
+     "UserId": "1",
+     "FirstName": "Terry",
+     "Surname": "Smith",
+     "PlayerDesc": "Lieks video games and money",
+     "MaxGold": "23",
+     "Team": "Blue"
+    },
+    {
+     "UserId": "2",
+     "FirstName": "Emily",
+     "Surname": "Jones",
+     "PlayerDesc": "into coding and landscaping",
+     "MaxGold": "1325",
+     "Team": "Blue"
+    },
+    {
+     "UserId": "3",
+     "FirstName": "Olivia",
+     "Surname": "Brown",
+     "PlayerDesc": "Loves a good steak",
+     "MaxGold": "754",
+     "Team": "Red"
+    }
+    ]
+}
